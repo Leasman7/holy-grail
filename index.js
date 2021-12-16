@@ -31,7 +31,7 @@ function data() {
 app.use(express.static('public'));
 
 // get data
-app.get('/', function (req, res) {
+app.get('/data', function (req, res) {
     data()
     .then(data => {
         console.log(data);
