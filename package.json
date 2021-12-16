@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Leasman7/holy-grail#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "redis": "^4.0.1"
   }
 }
