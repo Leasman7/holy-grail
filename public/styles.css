@@ -17,20 +17,20 @@ header, aside, article, footer {
 }
 
 aside{
-    background: lightgreen;
+    background: rgb(243, 211, 123);
 }
 
 article {
-    background: pink;
+    background: rgb(255, 200, 153);
 }
 
 header, footer {
     grid-column: 1 / 4;
-    background: lightskyblue;
+    background: rgb(121, 62, 62);
 }
 
 body {
-    font-family: Arial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 button {
