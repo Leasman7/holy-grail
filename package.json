@@ -1,0 +1,22 @@
+{
+  "name": "holy-grail",
+  "version": "1.0.0",
+  "description": "node app for holy grail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leasman7/holy-grail.git"
+  },
+  "author": "leasman7@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leasman7/holy-grail/issues"
+  },
+  "homepage": "https://github.com/Leasman7/holy-grail#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
